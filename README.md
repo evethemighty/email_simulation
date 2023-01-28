@@ -1,1 +1,1 @@
-# A program that simulates basic email capabilities
+# A program that simulates basic email capabilities.
